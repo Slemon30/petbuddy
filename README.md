@@ -29,10 +29,35 @@ PetBuddy is a full-stack web application that streamlines pet care by connecting
 - Express.js
 - MongoDB (with Mongoose)
 - JWT for auth
-- Socket.io for real-time features
+- Socket.io for real-time features  
 
 ### APIs & Services
 - OpenCage Geocoding
 - OpenStreetMap (location tracking)
 - Brevo SMTP (email)
 - Gemini 2.0 Flash (AI chatbot)
+
+### ScreenShots
+![image](https://github.com/user-attachments/assets/f9d6927e-10f2-41d1-be98-8e0c3f48cd73)
+![image](https://github.com/user-attachments/assets/daaf46ce-4068-4e86-8b88-cd49212bfc43)
+![image](https://github.com/user-attachments/assets/fff195e9-4c91-4ea3-8798-92244957e8b7)
+![image](https://github.com/user-attachments/assets/33facc03-1eff-46b5-82ae-6ee764dbbc21)
+![image](https://github.com/user-attachments/assets/3b5239ac-f6af-4029-931a-d4c8507490a5)
+![image](https://github.com/user-attachments/assets/ef66d8c8-df2b-4017-806a-84e63ff7ba9e)
+![image](https://github.com/user-attachments/assets/03f31e43-3df3-4d6c-b67d-004b26f387ec)
+![image](https://github.com/user-attachments/assets/c0e73516-8cf1-4f48-8c09-3d648563043f)
+![image](https://github.com/user-attachments/assets/c1404d72-7f81-4cec-bd8c-14e69836837e)
+![image](https://github.com/user-attachments/assets/644acb9b-5892-40f3-878f-f9a18ad093ed)
+![image](https://github.com/user-attachments/assets/949143c3-279c-40f4-8e52-b615614658b5)
+![image](https://github.com/user-attachments/assets/90619d9c-24b9-404b-ac70-d7262aaf9b5d)
+
+
+
+
+
+
+
+
+
+
+
