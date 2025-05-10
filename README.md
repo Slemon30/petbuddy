@@ -52,6 +52,20 @@ PetBuddy is a full-stack web application that streamlines pet care by connecting
 ![image](https://github.com/user-attachments/assets/90619d9c-24b9-404b-ac70-d7262aaf9b5d)
 
 
+**This project was developed by a team of 4 students:**
+**Aryav Singla**
+
+**Ayush Talan**
+
+**Saumya Sharma**
+
+**Saurabh Pandey**
+
+
+
+
+
+
 
 
 
