@@ -53,13 +53,14 @@ PetBuddy is a full-stack web application that streamlines pet care by connecting
 
 
 **This project was developed by a team of 4 students:**
-**Aryav Singla**
 
-**Ayush Talan**
+- **Aryav Singla**
 
-**Saumya Sharma**
+- **Ayush Talan**
 
-**Saurabh Pandey**
+- **Saumya Sharma**
+
+- **Saurabh Pandey**
 
 
 
